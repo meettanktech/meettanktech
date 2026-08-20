@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Meet Tank 👋
 
-<!--
-**meettanktech/meettanktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WordPress & Shopify Developer
 
-Here are some ideas to get you started:
+I'm a web developer focused on building custom, scalable and user-friendly websites and e-commerce solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+
+- WordPress Development
+- Custom WordPress Themes & Plugins
+- Elementor
+- WooCommerce
+- Shopify Development
+- Custom Shopify Themes
+- REST API Integration
+- Payment Gateway Integration
+- AI-Assisted Development
+
+## 🛠️ Technologies
+
+- PHP
+- JavaScript
+- HTML
+- CSS
+- WordPress
+- WooCommerce
+- Shopify
+- Git & GitHub
+
+## 🚀 Currently Working On
+
+- WordPress development
+- Shopify development
+- E-commerce solutions
+- AI-assisted web development
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn URL
+- Portfolio: Add your portfolio URL
